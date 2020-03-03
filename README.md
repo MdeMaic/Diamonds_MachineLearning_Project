@@ -1,11 +1,11 @@
-# Daimonds Machine Learning | Project
+# Diamonds Machine Learning | Project
 
 
 ## Objective
 Create the best regression model of machine learning that can predict the price (independent variable) of the diamonds when a certain characteristic (features) are given. 
 
 
-## Instrucctions
+## Instructions
 Two datasets are given in a [kaggle competition](https://www.kaggle.com/c/diamonds-datamad0120)
 
 - Train Set: with the following columns. 
@@ -54,7 +54,7 @@ The following decision has to be done
     - Ensure not Null values
     - Avoid not numeric values
     - Drop the high correlated features
-    - Standarize or normalize high value range features
+    - Standardize or normalize high-value range features
 
 2. Identify the best model
 Different models apport different results. Some of them are analysed in the project.
@@ -77,7 +77,7 @@ There are metrics from sklearn that help you to choose the best model
 ## Results
 ![Result table](/outputs/img/results.png)
 
-As it can be appreciated, the best solution addresed is the Polynomic Random Forest Regressor.
+As it can be appreciated, the best solution addressed is the Polynomic Random Forest Regressor.
 These are the plots that demmonstrate the relationship between the true and the predicted values
 ### Plot
 ![Result plot](/outputs/img/result_plot.png)
@@ -92,7 +92,7 @@ Please make sure to update tests as appropriate.
 
 
 ## Project status
-Learning and enjoying everyday.
+Learning and enjoying every day.
 Next steps:
 - Test new models and explore better neural networks
 - Use h2O to learn the AutoML function
