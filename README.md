@@ -69,4 +69,4 @@ There are metrics from sklearn that help you to choose the best model
 
 ## Results
 
-![Result table](/outputs/img/results)
+![Result table](/outputs/img/results.png)
