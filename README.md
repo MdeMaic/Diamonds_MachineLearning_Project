@@ -68,4 +68,5 @@ There are metrics from sklearn that help you to choose the best model
     - Scatter plot y_test vs y_true
 
 ## Results
-![Result table](/outputs/img/results.jpg)
+
+![Result table](/outputs/img/results)
